@@ -1,0 +1,88 @@
+.font{
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 560px;
+    padding: 10px 10px;
+}
+.font1 h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 70px;
+    color: cornsilk;
+
+}
+.font1 h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 27px;
+    color: cornsilk;
+}
+.font1 ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    color: cornsilk;
+}
+.font1 img{
+    width: 250px;
+    height: 350px;
+    padding: 0px 15px;
+}
+.light1 img{
+    width: 500px;
+    height: 400px;
+    
+}
+.light{
+    display: flex;
+   
+
+}
+.light2 h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.light2 p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+.service{
+    display: flex;
+}
+.service h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    
+}
+.service h2{
+    margin-bottom: px;
+}
+
+
+.service-item {
+    max-width: 25%;
+    float: left;
+    margin: 0px 15px 20px 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+  }
+  .service-item h2{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 28px;
+  }
+  .service-item p{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 18px;
+  }
+  .container{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 18px;
+  }
